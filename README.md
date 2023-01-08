@@ -1,4 +1,4 @@
-## منبع باز دفاع مشروع
+## منبع باز آموزش دفاع مشروع
 
 ### برای دانلود کتابچه راهنمای دفای مشروع [اینجا](https://github.com/ososIran/os-education-self-defence/raw/main/FINAL-Persian-booklet.pdf) کلیک کنید. این کتابچه توسط اتحاد برای ایران جمع آوری شده است.
 
